@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">pdfreader</string>
+    <string name="brush">Brush</string>
+    <string name="pen">Pen</string>
+    <string name="eraser">Eraser</string>
+    <string name="page_1">Page 1</string>
+    <string name="previous">Previous</string>
+    <string name="next">Next</string>
+    <string name="undo">Undo</string>
+    <string name="redo">Redo</string>
+</resources>

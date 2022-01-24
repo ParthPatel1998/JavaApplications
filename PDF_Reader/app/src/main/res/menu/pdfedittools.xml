@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+            android:id="@+id/previous"
+            android:icon="@drawable/ic_baseline_arrow_upward_24"
+            app:showAsAction="always"
+            android:title="@string/previous"/>
+    <item
+            android:id="@+id/next"
+            android:icon="@drawable/ic_baseline_arrow_downward_24"
+            app:showAsAction="always"
+            android:title="@string/next"/>
+
+    <item
+            android:id="@+id/undo"
+            android:icon="@drawable/ic_baseline_undo_24"
+            app:showAsAction="always"
+            android:title="@string/undo"/>
+    <item
+            android:id="@+id/redo"
+            android:icon="@drawable/ic_baseline_redo_24"
+            app:showAsAction="always"
+            android:title="@string/redo"/>
+
+    <item
+            android:id="@+id/pen"
+            android:icon="@drawable/ic_create24px"
+            app:showAsAction="always"
+            android:title="@string/pen"/>
+
+    <item
+            android:id="@+id/highlighter"
+            android:icon="@drawable/ic_create24px1"
+            app:showAsAction="always"
+            android:title="@string/brush"/>
+
+    <item
+            android:id="@+id/eraser"
+            android:icon="@drawable/ic_iconmonstreraser2"
+            app:showAsAction="always"
+            android:title="@string/eraser"/>
+</menu>
