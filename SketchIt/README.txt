@@ -3,4 +3,4 @@ Parth Patel
 openjdk version "11.0.8_10"
 Windows 10
 
-SketchIt is a paint app built using the MVC pattern.
+SketchIt is a paint app built using the MVC architecture pattern.
